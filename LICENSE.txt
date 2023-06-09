@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2023 Raiyan Bashir Mahin
+Copyright (c) 2023 Raiyan Bashir Mahin | Ahammed Zayed Uddin Rahat | Asrarul Hoque Eusha
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
