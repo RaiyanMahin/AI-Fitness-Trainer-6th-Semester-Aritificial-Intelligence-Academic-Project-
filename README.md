@@ -37,6 +37,6 @@ python main.py -t pull-up
 
 👤 **Raiyan Bashir Mahin**
 
-* LinkedIn: [@araiyanmahin](https://www.linkedin.com/in/raiyanmahin/)
+* LinkedIn: [@raiyanmahin](https://www.linkedin.com/in/raiyanmahin/)
 * GitHub: [@RaiyanMahin](https://github.com/RaiyanMahin)
 
