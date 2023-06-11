@@ -24,11 +24,19 @@ A squat is a strength exercise in which the trainee lowers their hips from a sta
 
 
 For dynamically detecting your realtime movements using your webcam , use these commands below:
+
 ```
-python main.py -t sit-up
+python main.py -t pull-up
 # or python main.py -t pull-up
 # or python main.py -t push-up
 # or python main.py -t squat
-# or python main.py -t walk
+
 ```
+
+## Contributors
+
+👤 **Raiyan Bashir Mahin**
+
+* LinkedIn: [@araiyanmahin](https://www.linkedin.com/in/raiyanmahin/)
+* GitHub: [@RaiyanMahin](https://github.com/RaiyanMahin)
 
