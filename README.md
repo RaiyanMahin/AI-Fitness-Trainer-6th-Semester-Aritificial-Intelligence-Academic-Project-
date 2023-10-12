@@ -40,3 +40,7 @@ python main.py -t pull-up
 * LinkedIn: [@raiyanmahin](https://www.linkedin.com/in/raiyanmahin/)
 * GitHub: [@RaiyanMahin](https://github.com/RaiyanMahin)
 
+👤 **Ahammed Zayed Uddin Rahat**
+
+* LinkedIn: [@ahammed-zayed-uddin-rahat-b254741b0](](https://www.linkedin.com/in/ahammed-zayed-uddin-rahat-b254741b0)
+* GitHub: [@Zayed-Rahat](https://github.com/Zayed-Rahat)
